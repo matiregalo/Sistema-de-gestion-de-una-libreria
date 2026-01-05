@@ -5,7 +5,6 @@ Sistema de escritorio desarrollado en Java con interfaz gráfica (Swing) para la
 ## 👥 Autores
 
 - Matias Regalo (308940)
-- Juan Constantin (335718)
 
 ## 📋 Descripción
 
