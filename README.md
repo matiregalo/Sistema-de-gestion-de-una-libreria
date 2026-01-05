@@ -15,7 +15,7 @@ Aplicación de escritorio que permite gestionar una librería con las siguientes
   - Registro de Géneros literarios
   - Registro de Autores
   - Registro de Libros
-
+ 
 - **Gestión de Ventas:**
   - Registrar ventas con facturación automática
   - Consultar ventas realizadas
